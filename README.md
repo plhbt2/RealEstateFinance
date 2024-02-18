@@ -9,3 +9,4 @@ Goal: structure your deal to the best possible way (how much equity to put to ge
 2. Look at competitors (e.g. cash flow frog)
 3. Create sensitivity analysis to see the range how outputs that can happen (and stress testing, cf. CRE ST)
 4. Create automated Excel and PPT
+5. Compare actual results to first plan. Readjust with new scenarios.
