@@ -7,6 +7,6 @@ Goal: structure your deal to the best possible way (how much equity to put to ge
    - Client gives input on how much equity/debt he intends to put, and it which interest rate
    - Client gives future financial objectives to see determine the optimal debt/equity to allocate 
 2. Look at competitors (e.g. cash flow frog)
-3. Create sensitivity analysis to see the range how outputs that can happen (and stress testing, cf. CRE ST)
+3. Create sensitivity analysis (i.e. little change in inputs) to see the range how outputs that can happen (and stress testing, i.e. big change in market, cf. CRE ST)
 4. Create automated Excel and PPT
 5. Compare actual results to first plan. Readjust with new scenarios.
